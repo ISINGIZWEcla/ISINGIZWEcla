@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ISINGIZWE Clarisse
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning ..computer and software engineering.
+- 👀 I’m interested in Web development and UI/UX
+- 🌱 I studied computer and software engineering.
 - 💞️ I’m looking to collaborate with you all
 - 📫 How to reach me email:klaraisingizwe@gmail.com
 
